@@ -35,7 +35,7 @@ Now once, again enter package mode to precompile
 (precompile_mwe) pkg> precompile
 ```
 
-After doing this we get the same error
+After doing this we get a similar error
 ```
 [ Info: Precompiling Turing [fce5fe82-541a-59a6-adf8-730c64b5f9a0]
 [ Info: Precompiling precompile_mwe [0f5867d9-2310-4ee1-a733-e9703dd06800]
