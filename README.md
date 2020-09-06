@@ -1,4 +1,4 @@
-# compile_mwe
+# precompile_mwe
 a small mwe demonstrating the precompilation error of Turing with reversediff backend in julia
 
 ## Reproducing the error
