@@ -1,8 +1,6 @@
 module compile_mwe
-    using Turing, ReverseDiff
-    using Memoization
+    using Turing
     Turing.setadbackend(:reversediff)
-    # Turing.setadbackend(:reverse_diff)
     Turing.setrdcache(true)
 
     greet() = print("Hello World!")
