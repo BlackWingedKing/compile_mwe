@@ -1,9 +1,8 @@
-name = "precompile_mwe"
-uuid = "0f5867d9-2310-4ee1-a733-e9703dd06800"
-authors = ["Ritesh Goru <ritesh.goru@gmail.com>"]
-version = "0.1.0"
-
 [deps]
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+LoggingExtras = "e6f89c97-d47a-5376-807f-9c37f3926c36"
+MbedTLS = "739be429-bea8-5141-9913-cc70e7f3736d"
 Memoization = "6fafb56a-5788-4b4e-91ca-c0cea6611c73"
 ReverseDiff = "37e2e3b7-166d-5795-8a7a-e32c996b4267"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"

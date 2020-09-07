@@ -1,4 +1,4 @@
-module precompile_mwe
+module Precompile_mwe
     using Turing, ReverseDiff, Memoization
     Turing.setadbackend(:reversediff)
     Turing.setrdcache(true)
